@@ -1,0 +1,5 @@
+project: petooh
+target: pthc
+
+cmds:
+  - cmd: /repo/LLVM-compiler/build/pthc @@ -o /dev/null
